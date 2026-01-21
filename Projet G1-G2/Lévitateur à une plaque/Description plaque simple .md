@@ -6,17 +6,17 @@ Ce prototype constitue la phase 2 du projet. Il utilise une seule surface émiss
 
 ### 📁 Electronique
 Ce dossier contient les documents nécessaires à l'assemblage physique :
-* **Schémas** : Plans du PCB pour la matrice unique et sa carte de puissance.
-* **Montage** : Instructions pour relier la matrice à l'Arduino et à l'alimentation.
+* **Schémas** 
+* **Montage** 
 
 ### 📁 Informatique
 Ce dossier regroupe les programmes de pilotage :
-* **Génération de phases** : Scripts pour créer les fichiers de configuration des pièges (focalisation simple ou vortex).
-* **Code Arduino** : Le firmware à téléverser pour contrôler les 64 transducteurs de la plaque.
+* **Génération de phases** 
+* **Code Arduino** 
 
 ### 📁 Physique théorique
-* **Modèles** : Documents expliquant le principe de lévitation avec une seule source .
-
+* **Modèles** 
+* **Calcul des phases** 
 ---
 ## Objectif
 Valider le fonctionnement du matériel et tester les premiers déplacements d'objets légers (billes de polystyrène).
