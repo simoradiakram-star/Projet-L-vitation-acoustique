@@ -1,10 +1,10 @@
 # 📁 Nos Prototypes
 
-Ce répertoire contient la documentation technique, les fichiers de conception (STL) et les spécifications matérielles des trois itérations de lévitateurs développées durant le projet.
+Ce répertoire contient 3 dossiers permettant d'identifier clairement les 3 prototypes réalisés durant notre projet :
 
 ## 1. TinyLev (Prototype de Validation)
 
-Le **TinyLev** est un lévitateur à ondes stationnaires fixes.
+Le **TinyLev** est un lévitateur à ondes stationnaires.
 
 * **Objectif** : Valider les principes fondamentaux de la lévitation acoustique et tester la chaîne d'amplification.
 * **Caractéristique** : Utilise deux supports imprimés en 3D suivant une courbe prédéfinie pour focaliser les ultrasons au centre.
@@ -24,5 +24,7 @@ Version la plus aboutie du projet, elle intègre deux matrices de transducteurs 
 * **Avantages** :
 * Augmentation considérable de la **force de piégeage**.
 * **Stabilité supérieure** permettant la manipulation de liquides ou de plusieurs particules simultanément.
-* Contrôle précis du déplacement vertical par déphasage relatif des deux matrices.
-* `/Specs` : Fiches techniques des transducteurs 40 kHz utilisés.
+
+---
+
+*Pour comprendre le déroulement de notre projet plus en détail et avoir une vue d'ensemble, vous pouvez vous référer à la documentation technique située à la racine de ce dossier.*
