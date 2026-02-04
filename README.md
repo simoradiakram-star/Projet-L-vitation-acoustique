@@ -24,7 +24,7 @@ Ce travail s'inscrit dans la continuité des recherches du groupe **AIMAN-FILMS 
 
 Ce projet mobilise des compétences pluridisciplinaires :
 
-* **Hardware / Électronique :** Conception de cartes électroniques, pilotage de transducteurs.
+* **Hardware / Électronique :** Soudure de cartes électroniques, pilotage de transducteurs.
 * **Système embarqué :** Programmation sur Arduino.
 * **Mécanique :** Modélisation et Impression 3D de la structure (support des transducteurs).
 * **Physique :** Principes des ondes stationnaires et de la pression de radiation acoustique.
