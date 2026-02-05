@@ -37,3 +37,36 @@ Ce projet est réalisé en partenariat avec le groupe **AIMAN-FILMS** de l'**IEM
 
 * **Olivier Bou Matar-Lacaze** (Centrale Lille / IEMN)
 * **Abdelkrim Talbi** (Centrale Lille / IEMN)
+
+---
+
+Voici l'architecture globale du GitHub :
+
+```
+└── Projet G1-G2
+    ├── Lévitateur à deux plaques
+    │   ├── Electronique
+    │   │   ├── Circuits
+    │   │   └── Composants
+    │   ├── Informatique
+    │   │   └── Communication 2 Arduino
+    │   ├── Notices
+    │   └── Physique Théorique
+    │       ├── Calcul des phases
+    │       └── Photos
+    ├── Lévitateur à une plaque
+    │   ├── Electronique
+    │   │   ├── Circuits
+    │   │   └── Composants
+    │   ├── Informatique
+    │   │   ├── Code Arduino Mega
+    │   │   │   ├── DriverMega
+    │   │   │   └── NewDriverMega
+    │   │   └── Codes Arduino Mega
+    │   │       └── DriverMega
+    │   ├── Notices
+    │   └── Physique théorique
+    │       ├── Calcul des phases
+    │       └── Photos
+    └── TinyLev
+```
