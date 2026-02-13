@@ -1,6 +1,9 @@
 # 📁 Nos Prototypes
 
-Ce répertoire contient 3 dossiers permettant d'identifier clairement les 3 prototypes réalisés durant notre projet :
+Ce répertoire contient 3 dossiers permettant d'identifier clairement les 3 prototypes réalisés durant notre projet, regroupés ici :
+
+![3 protos](https://github.com/user-attachments/assets/90af6127-a058-48b2-a768-8f8c7f1816b5)
+
 
 ## 1. TinyLev (Prototype de Validation)
 
