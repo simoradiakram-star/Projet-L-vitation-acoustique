@@ -22,7 +22,7 @@ Ce prototype marque le passage au contrôle dynamique via une matrice unique de 
 ![1765729357616](https://github.com/user-attachments/assets/7c9366fe-8408-419c-befc-00391b1247ed)
 
 
-## 3. Lévitateur à Double Plaque
+## 3. Lévitateur à Double Plaques
 
 Version la plus aboutie du projet, elle intègre deux matrices de transducteurs placées face à face.
 
