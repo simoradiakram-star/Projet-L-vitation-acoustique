@@ -56,7 +56,7 @@ Voici l'architecture globale du GitHub :
     │   ├── Physique Théorique
     │   │   ├── Calcul des phases
     │   │   └── Photos
-    │   └── Résultats  <-- (Vidéos de lévitation, rapports de tests)
+    │   └── Résultats
     │
     ├── Lévitateur à une plaque
     │   ├── Electronique
@@ -72,8 +72,8 @@ Voici l'architecture globale du GitHub :
     │   ├── Physique théorique
     │   │   ├── Calcul des phases
     │   │   └── Photos
-    │   └── Résultats  <-- (Vidéos, mesures de précision)
+    │   └── Résultats
     │
     └── TinyLev
-        └── Résultats  <-- (Démonstration du prototype compact)
+        └── Résultats
 ```
